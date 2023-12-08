@@ -47,7 +47,6 @@ Here are some ideas to get you started:
 <img src="https://i.ibb.co/WzVBjY5/Java-Script.png"/>
 <img src="https://i.ibb.co/FgB7b7y/react.png"/>
 <img src="https://i.ibb.co/ynYgd3K/firebase.png"/>
-<img src="https://i.ibb.co/FgB7b7y/react.png"/>
 <img src="https://i.ibb.co/64qS3Gy/express.png"/>
 <img src="https://i.ibb.co/QrX1hJs/mongo.png"/>
 </p>
