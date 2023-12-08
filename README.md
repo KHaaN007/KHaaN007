@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <br>
 <p align="center">
 <img src="./assests/css.png"/>
-<img src="./assests/Bootsrap.png"/>
+<img src="https://i.ibb.co/DQWzj2D/Bootsrap.png"/>
 <img src="./assests/tailwind.png"/>
 <img src="./assests/JavaScript.png"/>
 <img src="./assests/react.png"/>
