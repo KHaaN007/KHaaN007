@@ -1,3 +1,7 @@
+[![SVG Banners](https://i.ibb.co/KbLstdf/Modern-Minimal-Gradient-Background-Technology-Banner.png)](https://github.com/KHaaN007)
+
+
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KHaaN007&theme=buefy)
 
 
