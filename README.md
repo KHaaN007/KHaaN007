@@ -1,6 +1,4 @@
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KHaaN007&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KHaaN007&theme=buefy)
 
 
 
