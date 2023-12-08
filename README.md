@@ -10,11 +10,11 @@
 
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KHaaN007&theme=ambient-gradient&hide_border=true&border_radius=20&date_format=M%20j%5B%2C%20Y%5D&card_width=800&hide_current_streak=true)](https://git.io/streak-stats)
 
 
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KHaaN007&theme=blue_green&utcOffset=8)
 
 
 <!-- [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/KHaaN007/langs)](https://githubtrends.io) -->
