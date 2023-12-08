@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/KbLstdf/Modern-Minimal-Gradient-Background-Technology-Banner.png" />
+<img src="https://i.ibb.co/CwS1RQt/Modern-Minimal-Gradient-Background-Technology-Banner.jpg" />
 
 
 
