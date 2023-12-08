@@ -41,14 +41,15 @@ Here are some ideas to get you started:
 
 <br>
 <p align="center">
-<img src="./assests/css.png"/>
+<img src="https://i.ibb.co/t32SrxB/css.png"/>
 <img src="https://i.ibb.co/DQWzj2D/Bootsrap.png"/>
-<img src="./assests/tailwind.png"/>
-<img src="./assests/JavaScript.png"/>
-<img src="./assests/react.png"/>
-<img src="./assests/firebase.png"/>
-<img src="./assests/node.png"/>
-<img src="./assests/mongo.png"/>
+<img src="https://i.ibb.co/bWJNXTm/tailwind.png"/>
+<img src="https://i.ibb.co/WzVBjY5/Java-Script.png"/>
+<img src="https://i.ibb.co/FgB7b7y/react.png"/>
+<img src="https://i.ibb.co/ynYgd3K/firebase.png"/>
+<img src="https://i.ibb.co/FgB7b7y/react.png"/>
+<img src="https://i.ibb.co/64qS3Gy/express.png"/>
+<img src="https://i.ibb.co/QrX1hJs/mongo.png"/>
 </p>
 
 <br/>
