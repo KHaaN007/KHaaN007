@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co/CwS1RQt/Modern-Minimal-Gradient-Background-Technology-Banner.jpg" />
 
-
+# Current Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KHaaN007&theme=buefy)
 
@@ -9,7 +9,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=MD_AMANAT_KHAN%20&width=800&height=100)](https://github.com/KHaaN007)
 
 
-# Current Stats
+
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KHaaN007&theme=ambient-gradient&hide_border=true&border_radius=20&date_format=M%20j%5B%2C%20Y%5D&card_width=800&hide_current_streak=true)](https://git.io/streak-stats)
