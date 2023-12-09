@@ -5,8 +5,12 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KHaaN007&theme=buefy)
 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KHaaN007&theme=blueberry)
+
+
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=MD_AMANAT_KHAN%20&width=800&height=100)](https://github.com/KHaaN007)
+
 
 
 
@@ -37,6 +41,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
+
+# Reach me out
+
+<br />
+
+[<p align="center"><img height="75" src="https://i.ibb.co/Zh9pTLV/291709-logo-linked-in-social-network-social-social-media-icon.png">](www.linkedin.com/in/muhammad-amanat-khan)
+  [<img height="75" src="https://i.ibb.co/HF612QZ/291720-social-media-media-facebook-logo-internet-icon.png">](https://www.facebook.com/KHaaN00Seven/)
+  [<img height="75" src="https://i.ibb.co/tJ7pfSd/1298747-instagram-brand-logo-social-media-icon.png"> </p>](https://www.instagram.com/khaanoo71/)
+
+<br />
+
+
 
 # Technologies that I know
 
