@@ -46,10 +46,10 @@ Here are some ideas to get you started:
 
 <br />
 
-[<p align="center">
-<img height="75" src="https://i.ibb.co/HF612QZ/291720-social-media-media-facebook-logo-internet-icon.png">](https://www.linkedin.com/in/muhammad-amanat-khan/)
-  [<img height="75" src="https://i.ibb.co/HF612QZ/291720-social-media-media-facebook-logo-internet-icon.png">](https://www.facebook.com/KHaaN00Seven/)
+[<p align="center"><img height="75" src="https://i.ibb.co/HF612QZ/291720-social-media-media-facebook-logo-internet-icon.png">](https://www.facebook.com/KHaaN00Seven/)
+  [<img height="75" src="https://i.ibb.co/Fxn87Xb/291709-logo-linked-in-social-network-social-social-media-icon.png">](https://www.linkedin.com/in/muhammad-amanat-khan/)
   [<img height="75" src="https://i.ibb.co/tJ7pfSd/1298747-instagram-brand-logo-social-media-icon.png"> </p>](https://www.instagram.com/khaanoo71/)
+
 
 <br />
 
