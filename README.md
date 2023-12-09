@@ -3,7 +3,7 @@
 # Current Stats
 
 [<p align="center">
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KHaaN007&theme=buefy)</p>]
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KHaaN007&theme=buefy)]</p>
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KHaaN007&theme=blueberry)
