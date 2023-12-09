@@ -1,5 +1,8 @@
 <img src="https://i.ibb.co/CwS1RQt/Modern-Minimal-Gradient-Background-Technology-Banner.jpg" />
 
+# About
+### As a frontend developer, my primary responsibility is to create the user-facing aspect of websites or applications. i would like to instrumental in crafting the look, feel, and functionality that users directly interact with. My work revolves around translating design mockups or wireframes into functional and appealing interfaces.
+
 # Current Stats
 
 ![<p align="center">](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KHaaN007&theme=buefy)</p>
